@@ -1,0 +1,5 @@
+{
+  "name": "flixero",
+  "description": "A premium movie streaming platform with a Netflix-inspired VIP theme, featuring glassmorphism and cinematic WebGL animations.",
+  "requestFramePermissions": []
+}
